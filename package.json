@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akspellm/Constructor_Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akspellm/Constructor_Hangman/issues"
+  },
+  "homepage": "https://github.com/akspellm/Constructor_Hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
