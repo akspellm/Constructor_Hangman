@@ -13,7 +13,7 @@ function playGame(guesses, guessed, hashedWord) {
         gameOver.ask();
     }
 
-    else if (guesses < 4) {
+    else if (guesses < 10) {
         inquirer.prompt([
             {
                 name: 'letter',
